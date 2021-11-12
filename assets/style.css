@@ -14,6 +14,24 @@
     font-size: 20px;
     color: white;
 }
+
+.highScores {
+    background-color: black;
+    margin-left: 0%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    border: 1px lightgrey;
+
+    text-decoration: none;
+
+    border-radius: 8px;
+}
+
 #questionsDiv {
     margin: 20px;
 }
