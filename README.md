@@ -7,5 +7,5 @@ Also making a highscore feature with the ability to put in name and allowing it 
 https://spooncodes.github.io/JavaQuiz-Challenge4/
 
 ### Images
-(assets/images/quiz.png)
-(assets/images/highscores.png)
+![alt text](assets/images/quiz.png)
+![alt text](assets/images/highscores.png)
