@@ -6,19 +6,19 @@ var questions = [
         answer: "A private member of a class cannot be accessed by the methods of the same class"
     },
     {
-        title: "The condition in an if / else statement is enclosed within ____.",
+        title: "The condition in an if / else statement is enclosed within?",
         choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
         answer: "parentheses"
     },
     {
-        title: "Arrays in Javascript can be used to store ____.",
+        title: "Arrays in Javascript can be used to store?",
         choices: ["numbers and strings", "other arrays", "booleans", "all of the above"],
         answer: "all of the above"
     },
     {
-        title: "String values must be enclosed within ____ when being assigned to variables.",
-        choices: ["commas", "curly brackets", "quotes", "parenthesis"],
-        answer: "quotes"
+        title: "The default value of a static integer variable of a class in Java is?",
+        choices: ["0","1","Null","-1"],
+        answer: "0"
     },
     {
         title: "A very useful tool for used during development and debugging for printing content to the debugger is:",
